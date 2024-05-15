@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MeetPansheriya001
 - 👀 I’m interested in JS framworks
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular , React
 - 💞️ I’m looking to collaborate on Frontend framwork
-- 📫 How to reach me : meetpansheriya1@gmail.com
+- 📫 How to reach me : meetpansheriya37@gmail.com
   
 
 <!---
